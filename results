@@ -1,0 +1,22 @@
+SA model - Flair
+Positive tweets =  57.89473684210527 %
+Negative tweets =  42.10526315789473 %
+
+SA model - Flair (with neutral condition)
+Positive tweets =  50.877192982456144 %
+Negative tweets =  38.59649122807017 %
+Neutral tweets =  10.526315789473683 %
+
+SA model - NLTK
+Positive tweets =  8.771929824561402 %
+Negative tweets =  4.385964912280701 %
+Neutral tweets =  86.8421052631579 %
+
+SA model - TEXTBLOB
+Positive tweets =  51.75438596491229 %
+Negative tweets =  19.298245614035086 %
+Neutral tweets =  28.947368421052634 %
+
+XgBoost - Algorithmia
+Positive tweets =  90.35087719298247 %
+Negative tweets =  9.649122807017543 %
